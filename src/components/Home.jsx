@@ -166,7 +166,7 @@ if (home) {
         {/* Tamil Songs Section */}
         <div className="text-white">
           <div className="font-bold text-4xl m-3 p-5 pt-10 pb-10 pop">Recent Hits</div>
-          <div className="flex flex-wrap ml-6">
+          <div className="flex flex-wrap ml-2">
             {tamil_movies.map((tamil_movie, index) => (
               <div key={index}>
                 <img
