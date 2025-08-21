@@ -1,6 +1,6 @@
 import { React, useState } from "react";
 import "./home.css";
-import banner from "../assets/banner.png";
+import banner from "../assets/Banner.png";
 import PlayerUI from "./PlayerUI";
 import chikitu from "../assets/coolie/Chikitu.mp3";
 import powerhouse from "../assets/coolie/Powerhouse.mp3";
