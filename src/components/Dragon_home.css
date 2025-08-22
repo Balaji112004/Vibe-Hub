@@ -136,7 +136,18 @@ hr{
     transform: scale(1.2);
     transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out;
 }
-.prev,.next{
+.prev{
+    background-color: white;
+    color: black;
+    display: flex;
+    padding: 12px;
+    width: 65px;
+    margin-top: 26px;
+    margin-left: 10px;
+    height: 67px;
+    border-radius: 50%;
+}
+.next{
     background-color: white;
     color: black;
     display: flex;
