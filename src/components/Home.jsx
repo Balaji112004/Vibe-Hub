@@ -62,6 +62,42 @@ function Home() {
         { title: "Monica" ,src:monica,poster:"https://lh3.googleusercontent.com/q8U3dsJi-ANbQqN9magAqRfyG6Mb-0wzMOcYOQj-9kwajuabDZMxD-_7M39y40t3sz_YuuKpI3d7VMKP=w544-h544-l90-rj"},
       ],
     },
+            {
+      title: "Thug Life",
+      year: 2025,
+      music: "A R Rahman",
+      poster:
+        "https://lh3.googleusercontent.com/r9UzClLbmwsKwUzWEvIAgDj9aE49Sp6SidhJCa9gqLJ1TZNYUiqBJeAENztF8jihbFu9weyV4zMocdMqxA=w544-h544-l90-rj",
+      songs:[
+        {title:"Jinguchaa",src:jingu,poster:"https://lh3.googleusercontent.com/HPvio4r6y_JI6mmEWaKmLz757oXlN690Ar8ZGQ38o36A4wtPZnRA002RR8Cqtw2FUiyDlpxtZvGKynx8=w544-h544-l90-rj"},
+        {title:"Anju Vanna Poove",src:anju,poster:"https://lh3.googleusercontent.com/r9UzClLbmwsKwUzWEvIAgDj9aE49Sp6SidhJCa9gqLJ1TZNYUiqBJeAENztF8jihbFu9weyV4zMocdMqxA=w544-h544-l90-rj"},
+        {title:"O Maara",src:maara,poster:"https://lh3.googleusercontent.com/r9UzClLbmwsKwUzWEvIAgDj9aE49Sp6SidhJCa9gqLJ1TZNYUiqBJeAENztF8jihbFu9weyV4zMocdMqxA=w544-h544-l90-rj"}
+      ]
+    },
+            {
+      title: "Retro",
+      year: 2025,
+      music: "Santhosh Narayanan",
+      poster:
+        "https://lh3.googleusercontent.com/tiSgfcvmkq-snCqGA-HMXwsmvBujbMbreF-hyqlNAusC378SNEFD7W9LeyYGsVT5AhXvhDMWI0Oq2mV3=w544-h544-l90-rj",
+      songs:[
+        {title:"Kannima",src:kanni,poster:"https://i.scdn.co/image/ab67616d0000b273116633561ca7705cdbcc9656"},
+        {title:"Kannadi Poove",src:Kannadi,poster:"https://i.scdn.co/image/ab67616d0000b2733feeceaf6adaa22e57791da0"},
+        {title:"The One",src:one,poster:"https://i.scdn.co/image/ab67616d0000b273e7b5cf02c7a3df4a85957484"}
+      ]
+    },
+        {
+      title: "Good Bad Ugly",
+      year: 2025,
+      music: "G V Prakash",
+      poster:
+        "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c84068564ef6f2a7abaf6a1b6",
+      songs:[
+        {title:"OG Sambavam",src:og,poster:"https://i.scdn.co/image/ab67616d0000b2734e2fc4e9342592b98bab3e3d"},
+        {title:"God Bless U",src:god,poster:"https://i.scdn.co/image/ab67616d0000b273956e56e2162073b735bd1e98"},
+        {title:"Ranagalam",src:ranagalam,poster:"https://i.scdn.co/image/ab67616d0000b27321df94e3321238c67b7b08ab"}
+      ]
+    },
     {
       title: "Dragon",
       year: 2025,
@@ -86,57 +122,12 @@ function Home() {
         { title: "Vennilavu Saaral" ,src:Vennilavu,poster:"https://lh3.googleusercontent.com/4vIowaDvddpzM_8Hx8KmV_EpH6SymeVmLGuwXOwmethH1pY0780A5V8dibdKwWWcCka3vTx8OPrnW5ZcpA=w544-h544-l90-rj"},
       ],
     },
-    {
-      title: "Leo",
-      year: 2025,
-      music: "Anirudh Ravichander",
-      poster:
-        "https://lh3.googleusercontent.com/f3kYwLkC5vROJGEnO-l676KxN2KVWeCQvqBaINDlWTAHGVCzbnfB33s_pL6aHPL-qS5i1laGquX_Dt8V=w544-h544-l90-rj",
-                      songs: [
-        { title: "Naa Ready",src:ready ,poster:"https://lh3.googleusercontent.com/TJKv1uw804AZNOYgck6YlJ3gC9sJyVuTpH2PNBr5dbujyKpc8g2mU_vDRSZEQd4z1PmxnIOp9w0-6DE=w544-h544-l90-rj" },
-        { title: "Badass",src:badass,poster:"https://lh3.googleusercontent.com/rhb6EEfG0jcl2zyVOqFRuxBWE1gDtCI8O6tToSurheMbRwsEAZ1YYuNZ5MN80ESWmECNRzY0TF0gw3w5=w544-h544-l90-rj" },
-        { title: "Ordinary Person" ,src:Ord,poster:"https://lh3.googleusercontent.com/c7kNvRY1uGxfIMfGD261vFXq4UrZhgFSiYVWxfSMkHCmHhfgh-z1xR_qDz8mbvRDFJ1pXM8R6zngDmg=w544-h544-l90-rj"},
-      ],
-    },
-        {
-      title: "Thug Life",
-      year: 2025,
-      music: "A R Rahman",
-      poster:
-        "https://lh3.googleusercontent.com/r9UzClLbmwsKwUzWEvIAgDj9aE49Sp6SidhJCa9gqLJ1TZNYUiqBJeAENztF8jihbFu9weyV4zMocdMqxA=w544-h544-l90-rj",
-      songs:[
-        {title:"Jinguchaa",src:jingu,poster:"https://lh3.googleusercontent.com/HPvio4r6y_JI6mmEWaKmLz757oXlN690Ar8ZGQ38o36A4wtPZnRA002RR8Cqtw2FUiyDlpxtZvGKynx8=w544-h544-l90-rj"},
-        {title:"Anju Vanna Poove",src:anju,poster:"https://lh3.googleusercontent.com/r9UzClLbmwsKwUzWEvIAgDj9aE49Sp6SidhJCa9gqLJ1TZNYUiqBJeAENztF8jihbFu9weyV4zMocdMqxA=w544-h544-l90-rj"},
-        {title:"O Maara",src:maara,poster:"https://lh3.googleusercontent.com/r9UzClLbmwsKwUzWEvIAgDj9aE49Sp6SidhJCa9gqLJ1TZNYUiqBJeAENztF8jihbFu9weyV4zMocdMqxA=w544-h544-l90-rj"}
-      ]
-    },
-        {
-      title: "Retro",
-      year: 2025,
-      music: "Santhosh Narayanan",
-      poster:
-        "https://lh3.googleusercontent.com/tiSgfcvmkq-snCqGA-HMXwsmvBujbMbreF-hyqlNAusC378SNEFD7W9LeyYGsVT5AhXvhDMWI0Oq2mV3=w544-h544-l90-rj",
-      songs:[
-        {title:"Kannima",src:kanni,poster:"https://i.scdn.co/image/ab67616d0000b273116633561ca7705cdbcc9656"},
-        {title:"Kannadi Poove",src:Kannadi,poster:"https://i.scdn.co/image/ab67616d0000b2733feeceaf6adaa22e57791da0"},
-        {title:"The One",src:one,poster:"https://i.scdn.co/image/ab67616d0000b273e7b5cf02c7a3df4a85957484"}
-      ]
-    },
-        {
-      title: "Good Bad Ugly",
-      year: 2025,
-      music: "G V Prakash",
-      poster:
-        "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c84068564ef6f2a7abaf6a1b6",
-      songs:[
-        {title:"OG Sambavam",src:og,poster:"https://i.scdn.co/image/ab67616d0000b2734e2fc4e9342592b98bab3e3d"},
-        {title:"God Bless U",src:god,poster:"https://i.scdn.co/image/ab67616d0000b273956e56e2162073b735bd1e98"},
-        {title:"Ranagalam",src:ranagalam,poster:"https://i.scdn.co/image/ab67616d0000b27321df94e3321238c67b7b08ab"}
-      ]
-    },
+
+
+
         {
       title: "Lubber Pandhu",
-      year: 2025,
+      year: 2024,
       music: "Sean Roldan",
       poster:
         "https://i.scdn.co/image/ab67616d0000b273868c5da6dee0584ca2a72b72",
@@ -145,6 +136,18 @@ function Home() {
         {title:"Aasa Orave",src:Aasa,poster:"https://lh3.googleusercontent.com/J9euRdw2XCjiW0zkge7EGIbtkpipr5PidjNzxaTKBBbfFxxNicRBxD0Qv6XJ2KdGOBs0vg64G815KjSb=w544-h544-l90-rj"},
         {title:"Lubber Pandhu Theme",src:Theme,poster:"https://lh3.googleusercontent.com/ZoozmHWMZeLwXVgcmrNnyBjHmgf_wOI8NTCtLgjgVapquUORf1MVmWwcU-9H6G_806eaETKl5tLiK7M=w544-h544-l90-rj"}
       ]
+    },
+        {
+      title: "Leo",
+      year: 2023,
+      music: "Anirudh Ravichander",
+      poster:
+        "https://lh3.googleusercontent.com/f3kYwLkC5vROJGEnO-l676KxN2KVWeCQvqBaINDlWTAHGVCzbnfB33s_pL6aHPL-qS5i1laGquX_Dt8V=w544-h544-l90-rj",
+                      songs: [
+        { title: "Naa Ready",src:ready ,poster:"https://lh3.googleusercontent.com/TJKv1uw804AZNOYgck6YlJ3gC9sJyVuTpH2PNBr5dbujyKpc8g2mU_vDRSZEQd4z1PmxnIOp9w0-6DE=w544-h544-l90-rj" },
+        { title: "Badass",src:badass,poster:"https://lh3.googleusercontent.com/rhb6EEfG0jcl2zyVOqFRuxBWE1gDtCI8O6tToSurheMbRwsEAZ1YYuNZ5MN80ESWmECNRzY0TF0gw3w5=w544-h544-l90-rj" },
+        { title: "Ordinary Person" ,src:Ord,poster:"https://lh3.googleusercontent.com/c7kNvRY1uGxfIMfGD261vFXq4UrZhgFSiYVWxfSMkHCmHhfgh-z1xR_qDz8mbvRDFJ1pXM8R6zngDmg=w544-h544-l90-rj"},
+      ],
     },
   ];
 if (home) {
