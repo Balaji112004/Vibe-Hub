@@ -71,7 +71,7 @@ function PlayerUI({select2,movie,songs}) {
             <div className="navv">
               <div className="back" onClick={select2}>
                 <i className="bx bx-arrow-back text-2xl lg:text-4xl in"></i></div>
-              <center><h1 className="opacity-100 ml-7 text-3xl mt-2 font-bold lg:opacity-0">{movie.title}</h1></center>
+              <center><h1 className="opacity-100 headi ml-7 text-3xl mt-2 font-bold lg:opacity-0">{movie.title}</h1></center>
               <div className="lis opacity-0"><i className="bx bx-menu"></i></div>
             </div>
           </center>
